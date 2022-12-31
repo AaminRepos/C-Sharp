@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsExpoMethod", "CsExpoMethod.csproj", "{DCF2EDF0-E4D7-4464-8869-4CC920BE040E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF2EDF0-E4D7-4464-8869-4CC920BE040E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF2EDF0-E4D7-4464-8869-4CC920BE040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF2EDF0-E4D7-4464-8869-4CC920BE040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF2EDF0-E4D7-4464-8869-4CC920BE040E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A229D25-6EFD-4FF7-BDCA-7014C1CCC279}
+	EndGlobalSection
+EndGlobal

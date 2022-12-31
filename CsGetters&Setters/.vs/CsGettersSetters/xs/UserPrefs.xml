@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6984C18A-96F2-4A8A-8774-B42A22BDD160}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie.cs">
+    <Files>
+      <File FileName="Movie.cs" Line="26" Column="7" />
+      <File FileName="Program.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CsGettersSetters" expanded="True">
+            <Node name="CsGettersSetters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CsGettersSetters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

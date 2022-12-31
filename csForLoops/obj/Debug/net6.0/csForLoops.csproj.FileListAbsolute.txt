@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/csForLoops/bin/Debug/net6.0/csForLoops
+/Users/aamin/Documents/C#/csForLoops/bin/Debug/net6.0/csForLoops.deps.json
+/Users/aamin/Documents/C#/csForLoops/bin/Debug/net6.0/csForLoops.runtimeconfig.json
+/Users/aamin/Documents/C#/csForLoops/bin/Debug/net6.0/csForLoops.dll
+/Users/aamin/Documents/C#/csForLoops/bin/Debug/net6.0/csForLoops.pdb
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.AssemblyInfo.cs
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.dll
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/refint/csForLoops.dll
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.pdb
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/csForLoops.genruntimeconfig.cache
+/Users/aamin/Documents/C#/csForLoops/obj/Debug/net6.0/ref/csForLoops.dll

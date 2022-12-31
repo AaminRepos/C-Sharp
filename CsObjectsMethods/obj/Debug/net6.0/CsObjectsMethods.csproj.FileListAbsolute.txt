@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/CsObjectsMethods/bin/Debug/net6.0/CsObjectsMethods
+/Users/aamin/Documents/C#/CsObjectsMethods/bin/Debug/net6.0/CsObjectsMethods.deps.json
+/Users/aamin/Documents/C#/CsObjectsMethods/bin/Debug/net6.0/CsObjectsMethods.runtimeconfig.json
+/Users/aamin/Documents/C#/CsObjectsMethods/bin/Debug/net6.0/CsObjectsMethods.dll
+/Users/aamin/Documents/C#/CsObjectsMethods/bin/Debug/net6.0/CsObjectsMethods.pdb
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.AssemblyInfo.cs
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.dll
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/refint/CsObjectsMethods.dll
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.pdb
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/CsObjectsMethods.genruntimeconfig.cache
+/Users/aamin/Documents/C#/CsObjectsMethods/obj/Debug/net6.0/ref/CsObjectsMethods.dll

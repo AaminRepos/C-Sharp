@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/CsExceptionsHandling/bin/Debug/net6.0/CsExceptionsHandling
+/Users/aamin/Documents/C#/CsExceptionsHandling/bin/Debug/net6.0/CsExceptionsHandling.deps.json
+/Users/aamin/Documents/C#/CsExceptionsHandling/bin/Debug/net6.0/CsExceptionsHandling.runtimeconfig.json
+/Users/aamin/Documents/C#/CsExceptionsHandling/bin/Debug/net6.0/CsExceptionsHandling.dll
+/Users/aamin/Documents/C#/CsExceptionsHandling/bin/Debug/net6.0/CsExceptionsHandling.pdb
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.AssemblyInfo.cs
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.dll
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/refint/CsExceptionsHandling.dll
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.pdb
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/CsExceptionsHandling.genruntimeconfig.cache
+/Users/aamin/Documents/C#/CsExceptionsHandling/obj/Debug/net6.0/ref/CsExceptionsHandling.dll

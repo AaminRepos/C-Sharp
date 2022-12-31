@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/Cs_GuessGame/bin/Debug/net6.0/Cs_GuessGame
+/Users/aamin/Documents/C#/Cs_GuessGame/bin/Debug/net6.0/Cs_GuessGame.deps.json
+/Users/aamin/Documents/C#/Cs_GuessGame/bin/Debug/net6.0/Cs_GuessGame.runtimeconfig.json
+/Users/aamin/Documents/C#/Cs_GuessGame/bin/Debug/net6.0/Cs_GuessGame.dll
+/Users/aamin/Documents/C#/Cs_GuessGame/bin/Debug/net6.0/Cs_GuessGame.pdb
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.AssemblyInfo.cs
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.dll
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/refint/Cs_GuessGame.dll
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.pdb
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/Cs_GuessGame.genruntimeconfig.cache
+/Users/aamin/Documents/C#/Cs_GuessGame/obj/Debug/net6.0/ref/Cs_GuessGame.dll

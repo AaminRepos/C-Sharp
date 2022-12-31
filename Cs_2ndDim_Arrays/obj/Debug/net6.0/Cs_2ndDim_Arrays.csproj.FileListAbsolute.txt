@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/bin/Debug/net6.0/Cs_2ndDim_Arrays
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/bin/Debug/net6.0/Cs_2ndDim_Arrays.deps.json
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/bin/Debug/net6.0/Cs_2ndDim_Arrays.runtimeconfig.json
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/bin/Debug/net6.0/Cs_2ndDim_Arrays.dll
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/bin/Debug/net6.0/Cs_2ndDim_Arrays.pdb
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.AssemblyInfo.cs
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.dll
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/refint/Cs_2ndDim_Arrays.dll
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.pdb
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/Cs_2ndDim_Arrays.genruntimeconfig.cache
+/Users/aamin/Documents/C#/Cs_2ndDim_Arrays/obj/Debug/net6.0/ref/Cs_2ndDim_Arrays.dll

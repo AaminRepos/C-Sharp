@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/CsStaticClassAttributes/bin/Debug/net6.0/CsStaticClassAttributes
+/Users/aamin/Documents/C#/CsStaticClassAttributes/bin/Debug/net6.0/CsStaticClassAttributes.deps.json
+/Users/aamin/Documents/C#/CsStaticClassAttributes/bin/Debug/net6.0/CsStaticClassAttributes.runtimeconfig.json
+/Users/aamin/Documents/C#/CsStaticClassAttributes/bin/Debug/net6.0/CsStaticClassAttributes.dll
+/Users/aamin/Documents/C#/CsStaticClassAttributes/bin/Debug/net6.0/CsStaticClassAttributes.pdb
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.AssemblyInfo.cs
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.dll
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/refint/CsStaticClassAttributes.dll
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.pdb
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/CsStaticClassAttributes.genruntimeconfig.cache
+/Users/aamin/Documents/C#/CsStaticClassAttributes/obj/Debug/net6.0/ref/CsStaticClassAttributes.dll

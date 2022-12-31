@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/CsExpoMethod/bin/Debug/net6.0/CsExpoMethod
+/Users/aamin/Documents/C#/CsExpoMethod/bin/Debug/net6.0/CsExpoMethod.deps.json
+/Users/aamin/Documents/C#/CsExpoMethod/bin/Debug/net6.0/CsExpoMethod.runtimeconfig.json
+/Users/aamin/Documents/C#/CsExpoMethod/bin/Debug/net6.0/CsExpoMethod.dll
+/Users/aamin/Documents/C#/CsExpoMethod/bin/Debug/net6.0/CsExpoMethod.pdb
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.AssemblyInfo.cs
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.dll
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/refint/CsExpoMethod.dll
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.pdb
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/CsExpoMethod.genruntimeconfig.cache
+/Users/aamin/Documents/C#/CsExpoMethod/obj/Debug/net6.0/ref/CsExpoMethod.dll

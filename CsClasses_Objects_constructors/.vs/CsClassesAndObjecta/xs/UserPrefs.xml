@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{88F29687-23AF-4610-A0DB-E9D248168838}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CsClassesAndObjecta" expanded="True">
+            <Node name="CsClassesAndObjecta" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CsClassesAndObjecta PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

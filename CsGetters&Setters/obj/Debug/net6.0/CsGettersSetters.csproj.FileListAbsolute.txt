@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/CsGetters&Setters/bin/Debug/net6.0/CsGetters&Setters
+/Users/aamin/Documents/C#/CsGetters&Setters/bin/Debug/net6.0/CsGetters&Setters.deps.json
+/Users/aamin/Documents/C#/CsGetters&Setters/bin/Debug/net6.0/CsGetters&Setters.runtimeconfig.json
+/Users/aamin/Documents/C#/CsGetters&Setters/bin/Debug/net6.0/CsGetters&Setters.dll
+/Users/aamin/Documents/C#/CsGetters&Setters/bin/Debug/net6.0/CsGetters&Setters.pdb
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGettersSetters.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGettersSetters.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGettersSetters.AssemblyInfo.cs
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGettersSetters.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGetters&Setters.dll
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/refint/CsGetters&Setters.dll
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGetters&Setters.pdb
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/CsGettersSetters.genruntimeconfig.cache
+/Users/aamin/Documents/C#/CsGetters&Setters/obj/Debug/net6.0/ref/CsGetters&Setters.dll

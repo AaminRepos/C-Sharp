@@ -1,0 +1,15 @@
+/Users/aamin/Documents/C#/CsClassesAndObjecta/bin/Debug/net6.0/CsClassesAndObjecta
+/Users/aamin/Documents/C#/CsClassesAndObjecta/bin/Debug/net6.0/CsClassesAndObjecta.deps.json
+/Users/aamin/Documents/C#/CsClassesAndObjecta/bin/Debug/net6.0/CsClassesAndObjecta.runtimeconfig.json
+/Users/aamin/Documents/C#/CsClassesAndObjecta/bin/Debug/net6.0/CsClassesAndObjecta.dll
+/Users/aamin/Documents/C#/CsClassesAndObjecta/bin/Debug/net6.0/CsClassesAndObjecta.pdb
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.csproj.AssemblyReference.cache
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.AssemblyInfoInputs.cache
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.AssemblyInfo.cs
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.csproj.CoreCompileInputs.cache
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.dll
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/refint/CsClassesAndObjecta.dll
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.pdb
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/CsClassesAndObjecta.genruntimeconfig.cache
+/Users/aamin/Documents/C#/CsClassesAndObjecta/obj/Debug/net6.0/ref/CsClassesAndObjecta.dll
